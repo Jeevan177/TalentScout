@@ -329,7 +329,6 @@ def create_prompt(stage, resume_data=None, user_input=None, conversation_history
         1. Thanks the candidate for their time
         2. Explains the next steps in the interview process
         3. Gives them a timeframe for when they might hear back
-        4. Offers to answer any questions they might have about TalentScout or the position
         
         Do not provide an assessment of their performance.
         """
