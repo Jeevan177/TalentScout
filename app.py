@@ -354,7 +354,6 @@ st.title("TalentScout Hiring Assistant")
 
 # Sidebar
 with st.sidebar:
-    st.image("https://via.placeholder.com/150x150.png?text=TalentScout", width=150)
     st.markdown("## TalentScout")
     st.markdown("AI-powered technical screening assistant")
     st.divider()
